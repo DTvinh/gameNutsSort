@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de813ed79a3040c4da6b5c4e82cc5aa7, type: 3}
+  m_Name: Level20
+  m_EditorClassIdentifier: 
+  levelNumber: 20
+  numberBoltCompleted: 7
+  boltsSettings:
+  - nutsSettings:
+    - nutType: 1
+      IsHidden: 1
+    - nutType: 1
+      IsHidden: 1
+    - nutType: 3
+      IsHidden: 1
+    - nutType: 1
+      IsHidden: 1
+    - nutType: 0
+      IsHidden: 0
+  - nutsSettings:
+    - nutType: 0
+      IsHidden: 1
+    - nutType: 5
+      IsHidden: 1
+    - nutType: 0
+      IsHidden: 1
+    - nutType: 5
+      IsHidden: 1
+    - nutType: 0
+      IsHidden: 0
+  - nutsSettings:
+    - nutType: 0
+      IsHidden: 1
+    - nutType: 2
+      IsHidden: 1
+    - nutType: 6
+      IsHidden: 1
+    - nutType: 5
+      IsHidden: 1
+    - nutType: 6
+      IsHidden: 0
+  - nutsSettings:
+    - nutType: 7
+      IsHidden: 1
+    - nutType: 3
+      IsHidden: 1
+    - nutType: 6
+      IsHidden: 1
+    - nutType: 1
+      IsHidden: 1
+    - nutType: 6
+      IsHidden: 0
+  - nutsSettings:
+    - nutType: 7
+      IsHidden: 1
+    - nutType: 3
+      IsHidden: 1
+    - nutType: 5
+      IsHidden: 1
+    - nutType: 2
+      IsHidden: 1
+    - nutType: 5
+      IsHidden: 0
+  - nutsSettings:
+    - nutType: 2
+      IsHidden: 1
+    - nutType: 5
+      IsHidden: 1
+    - nutType: 1
+      IsHidden: 1
+    - nutType: 5
+      IsHidden: 1
+    - nutType: 2
+      IsHidden: 0
+  - nutsSettings:
+    - nutType: 0
+      IsHidden: 1
+    - nutType: 6
+      IsHidden: 1
+    - nutType: 2
+      IsHidden: 1
+    - nutType: 0
+      IsHidden: 1
+    - nutType: 7
+      IsHidden: 0
+  - nutsSettings: []
